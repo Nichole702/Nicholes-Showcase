@@ -1,6 +1,6 @@
 # Nicholes-Showcase
-![Screenshot_20250810_074757_Messages](https://github.com/user-attachments/assets/d52466c0-302b-46c4-9e1b-d47a65709300)
 ![20250905_063119](https://github.com/user-attachments/assets/87609e1b-e12f-48c7-887a-e654675ac9d4)
+![Screenshot_20250810_074757_Messages](https://github.com/user-attachments/assets/d52466c0-302b-46c4-9e1b-d47a65709300)
 ![20250831_095416](https://github.com/user-attachments/assets/30656d77-ea30-4277-b50b-b60aa5dfaba8)
 ![20250831_095412](https://github.com/user-attachments/assets/5ba86df6-a2b8-4192-b5f1-6c14240d0c4b)
 ![20250828_054959](https://github.com/user-attachments/assets/cf4d9389-c151-40df-9c27-9b0f8cc8d2e1)
